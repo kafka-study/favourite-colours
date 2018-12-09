@@ -4,7 +4,7 @@ This project is a sample about how to count words using kafka streams with Scala
 
 ## requirements ##
 - Java (JDK-8)
-- Gradle
+- SBT
 - Docker
 - Docker Compose
 
